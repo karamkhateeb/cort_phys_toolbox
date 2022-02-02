@@ -25,7 +25,7 @@ Code in this directory is used to determine the effects of light illumination pa
 ### Light Simulation ###
 The LightSim directory contains code for modeling light propagation through cortical tissue and predicting lesion profiles based on illumination parameters.
 
-Note: Throught the scripts contained in this repository, the following terms are used interchangeable:
+Note: Throughout the scripts contained in this repository, the following terms are used interchangeable:
 - PT1 = Monkey A
 - PT2 = Monkey B
 - PT3 = Monkey C
